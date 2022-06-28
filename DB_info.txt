@@ -1,0 +1,12 @@
+basket=user_main
+user_photo=Basketdevice
+
+device=car 
+name=plate
+price=model_year
+typeid //type of plate:new,old,oldtimer...
+
+device_info=car_info
+device_id=car_id
+type.name=type.name
+
